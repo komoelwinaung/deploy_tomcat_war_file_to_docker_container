@@ -1,0 +1,7 @@
+Tutorial by - https://hiberstack.com/deploy-war-file-on-tomcat-docker-container/
+
+Testing Env: Window10 CMD, Docker Desktop App, Visual Studio Code
+
+First, we will need to install Docker Desktop in Window10.
+
+Second, follows step by step in tutorial.
